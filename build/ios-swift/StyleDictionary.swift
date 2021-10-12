@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 12 Oct 2021 12:49:07 GMT
+// Generated on Tue, 12 Oct 2021 13:22:46 GMT
 
 
 import UIKit
@@ -23,4 +23,5 @@ public class StyleDictionary {
     public static let fontGigio = "[object Object]"
     public static let fontHeader1 = "[object Object]"
     public static let fontHeader2 = "[object Object]"
+    public static let fontHeader3 = "[object Object]"
 }
